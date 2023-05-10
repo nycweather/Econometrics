@@ -1,0 +1,32 @@
+variable name,explanation
+rassrecv,Receive Social Security
+h14itot,Household total income
+r13jhours,Hours of work per week at 1st job in previous interview period
+r14isret,Individual Income from Social Security Retirement 
+racohbyr,Respondent birth cohort
+r14ipena,Individual Income from Employer Pension + Annuity 
+r14jnjob,Number of jobs reported (job history)
+r14hlthlm,Whether health limits work 
+r14peninc,Currently receiving any pension income 
+r14peni_n,Number of pensions currently receive 
+h14absns,Household net value of businesses
+r13jhour2,Hours of work per week at 2nd job in previous interview period
+h14adebt,Value of other debt 
+r14jlten,Years worked at longest reported job
+h14atota,Total Wealth (Excluding Secondary Residence) 
+r14mstath,Marital status
+r13iearn,Individual Earnings at previous interview
+inw4,interview period. Wave 4
+inw5,interview period. Wave 5
+inw6,interview period. Wave 6
+inw7,interview period. Wave 7
+inw8,interview period. Wave 8
+inw9,interview period. Wave 9
+inw10,interview period. Wave 10
+inw11,interview period. Wave 11
+inw12,interview period. Wave 12
+inw13,interview period. Wave 13
+inw14,interview period. Wave 14
+retire,Whether retired
+r14agey_b,Age in years at the beginning of the interview
+ragender,gender
