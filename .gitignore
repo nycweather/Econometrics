@@ -1,0 +1,44 @@
+# Compiled Python files
+**/*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+*.venv/
+.ENV/
+
+# Logs
+**/*.log
+logs/
+
+
+# Database files
+*.db
+
+# Project dependencies
+*.egg-info/
+dist/
+build/
+lib/
+bin/
+include/
+pyvenv.cfg
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# PyCharm files
+.idea/
+*.iml
+
+# Miscellaneous
+*.pyo
+*.swp
+*~
+*.bak
+*.tmp
+*.DS_Store
